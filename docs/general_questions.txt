@@ -1,0 +1,7 @@
+# General Questions Handled by the Chatbot (Irrelevant to CDPs)
+
+- What movie is getting released this week?
+- How to bake a chocolate cake?
+- What is the capital of France?
+- Tell me about the weather today.
+- How to learn programming online?

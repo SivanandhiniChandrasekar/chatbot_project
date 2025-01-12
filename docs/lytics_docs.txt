@@ -1,0 +1,16 @@
+# Lytics Documentation (How-to guides)
+
+## Audience Segmentation in Lytics:
+1. Go to the Audiences section of the Lytics platform.
+2. Click "Create Audience" and select segmentation criteria like demographics, actions, or behavior.
+3. Apply filters and save the audience for future use.
+
+## Integrating with Other Platforms:
+1. Access the Integrations tab.
+2. Choose the tool or service to integrate with Lytics (e.g., Google Analytics, CRM).
+3. Set up authentication and sync data.
+
+## Tracking User Activities:
+1. Use the Lytics SDK to implement tracking on your website or app.
+2. Define events to monitor user actions (e.g., button clicks, page views).
+3. Check the tracking data in the Analytics section.

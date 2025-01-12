@@ -1,0 +1,16 @@
+# Segment Documentation (How-to guides)
+
+## Setting up a Source in Segment:
+1. Navigate to the Sources tab in your Segment workspace.
+2. Click "Add Source" and choose the source type (e.g., Web, Mobile App).
+3. Follow the setup steps, including adding your integration key.
+
+## User Segmentation in Segment:
+1. Go to the Audiences tab and click "Create Audience."
+2. Define the audience based on properties or events (e.g., users who made a purchase).
+3. Save the audience and deploy it in your campaigns.
+
+## Integrating with Other Platforms:
+1. From the Integrations tab, select the tool or platform you want to integrate with.
+2. Follow the on-screen instructions for setting up the integration.
+3. Verify successful integration through test events.
