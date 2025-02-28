@@ -25,6 +25,8 @@ function sendMessage() {
             bot_message.className = 'message bot-message';
             bot_message.innerText = data;
             document.getElementById('chat-log').appendChild(bot_message);
+
+            document.getElementById('chat-log').scrollTop=document.getElementById('chat-log').scrollHeight;
         });
 
         // Clear the input field

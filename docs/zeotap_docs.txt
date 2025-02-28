@@ -1,16 +1,16 @@
 # Zeotap Documentation (How-to guides)
 
-## Creating an Audience in Zeotap:
+ Creating an Audience in Zeotap:
 1. Navigate to the "Audiences" section.
 2. Click "Create Audience" and define the audience based on user data like behavior or demographic.
 3. Set audience conditions and save it for targeting.
 
-## Integrating Zeotap with Other Platforms:
+ Integrating Zeotap with Other Platforms:
 1. Go to the Integrations tab.
 2. Select the platform or tool to connect with Zeotap.
 3. Follow the steps to complete the integration and verify successful syncing.
 
-## Configuring Data in Zeotap:
+Configuring Data in Zeotap:
 1. Go to the "Data Management" section.
 2. Upload or import your data sources.
 3. Configure the data mapping and processing rules.

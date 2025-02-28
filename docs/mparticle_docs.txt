@@ -1,16 +1,22 @@
 # mParticle Documentation (How-to guides)
 
-## Setting up User Profiles:
+=> Setting up User Profiles:
 1. Go to the User Profiles section.
 2. Click "Create User Profile" and add essential details like user ID and attributes.
 3. Link the user profile to events or actions.
 
-## Creating Audiences in mParticle:
+ => Creating Audiences in mParticle:
 1. Navigate to the Audiences tab.
 2. Click on "Create Audience" and set the conditions (e.g., active users, recent purchasers).
 3. Save the audience for targeting in campaigns.
 
-## Configuring Integrations:
+=> Configuring Integrations:
 1. Select the "Integrations" tab from your workspace.
 2. Choose the platform you want to integrate with (e.g., CRM, email service).
 3. Follow the integration steps to sync data.
+
+How can I create a user profile in mParticle?
+1. Open the mParticle dashboard.
+2. Go to "User Profiles".
+3. Click "New Profile" and enter details.
+4. Save and monitor user data.

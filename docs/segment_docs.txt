@@ -14,3 +14,9 @@
 1. From the Integrations tab, select the tool or platform you want to integrate with.
 2. Follow the on-screen instructions for setting up the integration.
 3. Verify successful integration through test events.
+
+How do I set up a new source in Segment?
+1. Log into your Segment workspace.
+2. Navigate to "Sources" > "Add Source".
+3. Choose the integration type (e.g., Web, Mobile, Cloud App).
+4. Follow the guided setup process.
